@@ -98,3 +98,4 @@ SELECT * FROM bank_full;
 SELECT * FROM account_info;
 SELECT * FROM campaign;
 SELECT * FROM client;
+SELECT * FROM bank_full;
